@@ -1,3 +1,4 @@
 feature task2 commit 1
 feature task2 commit 2
 feature task2 commit 3
+feature task2 commit 4
